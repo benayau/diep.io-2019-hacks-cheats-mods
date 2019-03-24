@@ -1,17 +1,14 @@
 <h3>Features</h3>
-• Fire bot</br>
-• Fast Healer</br>
-• Custom Aim Settings</br>
+• Aimbot bot</br>
+• Auto Healer</br>
+• Aim Settings</br>
 • Aim Helper</br>
 • Show Fps</br>
-• Auto Respawn</br>
 • Auto Reload</br>
-• Auto Weapon Swap</br>
-• Change Weapon Scopes</br>
-• Play solo in Duo & Play solo in Squad</br>
+• Auto Run</br>
 </br>
 <b>Requirements:</b> • Tampermonkey
-<h2>Userscript: <a href="https://github.com/MrCoderN/surviv.io-hacks-cheats-mods-survivio/raw/master/surviviomods.user.js" target="_blank">CLICK HERE</a></h2>
+<h2>Userscript: <a href="https://github.com/MrCoderN/diep.io-2019-hacks-cheats-mods/raw/master/diepiohack.user.js" target="_blank">CLICK HERE</a></h2>
 <b>* Other Websites & Mods *</b></br>
 All IO Mods: https://slithere.com</br>
 All IO Games: https://iogameslist.org
