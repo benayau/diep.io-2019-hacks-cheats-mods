@@ -6,7 +6,8 @@
 • Show Fps</br>
 • Auto Reload</br>
 • Auto Run</br>
-</br>
+</br>Feel Free to DM to me https://instagram.com/aecicekdagi about issues.</br>
+You can also follow me.</br></br>
 <b>Requirements:</b> • Tampermonkey
 <h2>Userscript: <a href="https://github.com/MrCoderN/diep.io-2019-hacks-cheats-mods/raw/master/diepiohack.user.js" target="_blank">CLICK HERE</a></h2>
 <b>* Other Websites & Mods *</b></br>
