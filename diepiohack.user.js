@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name         Diep.io 2019 Hacks, Cheats, Mods | NO BANNED ISSUE | AIMBOT DIEPIOPLAY.COM
-// @version      1.0
-// @description  Diepio Hacks for diep.io cheats with diep mods that aimbot,fire bot, auto respawn, change colors, show fps
-// @author       MR.Moder
+// @name         Diep.io 2019 (Hacks,Mods,Cheats) - Really Working (sandbox-unblocked)
+// @description  Diepio Color Changer, Colorful Items, Adblock, aimbot, fire bot, auto respawn, show fps
+// @version      1.2
+// @namespace    Never-Steal-Dont-Ban
+// @author       Never-Steal-Dont-Ban
 // @match        *://*.diep.io/*
 // @grant        none
 // @require      https://greasyfork.org/scripts/27023-jscolor/code/JSColor.js?version=173802
