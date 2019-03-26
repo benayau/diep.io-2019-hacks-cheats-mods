@@ -2,10 +2,10 @@
 • Aimbot bot</br>
 • Auto Healer</br>
 • Aim Settings</br>
-• Aim Helper</br>
-• Show Fps</br>
-• Auto Reload</br>
-• Auto Run</br>
+• Colorful Mod</br>
+• Change Colors</br>
+• Adblock</br>
+• Auto Turning & More..</br>
 </br>Feel Free to DM to me https://instagram.com/aecicekdagi about issues.</br>
 You can also follow me.</br></br>
 <b>Requirements:</b> • Tampermonkey
