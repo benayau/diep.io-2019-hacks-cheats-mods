@@ -6,6 +6,7 @@
 • Change Colors</br>
 • Adblock</br>
 • Auto Turning & More..</br>
+Press "TAB" button to use mod</br>
 </br>Feel Free to DM to me https://instagram.com/aecicekdagi about issues.</br>
 You can also follow me.</br></br>
 <b>Requirements:</b> • Tampermonkey
