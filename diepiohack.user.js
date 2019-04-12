@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Diep.io Hacks Cheats Mods 2019 - Working - (sandbox-unblocked) by ioMods.org
-// @description  Diepio Mods Color Changer, Colorful Items, Aimbot, Fire Bot, Auto Respan, FPS, Adblock Created by ioMods.org
+// @description  Diepio Mods Features: Color Changer, Colorful Items, Aimbot, Fire Bot, Auto Respan, FPS, Adblock Created by ioMods.org
 // @namespace    iomods.org
 // @author       iomods.org
 // @version      1
