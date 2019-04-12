@@ -7,8 +7,8 @@
 // @require      https://greasyfork.org/scripts/27023-jscolor/code/JSColor.js?version=173802
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
-// @updateURL    https://iomods.org/mods/wormaxio.user.js
-// @downloadURL  https://iomods.org/mods/wormaxio.user.js
+// @updateURL    https://iomods.org/mods/diepio.user.js
+// @downloadURL  https://iomods.org/mods/diepio.user.js
 // @match        *://diep.io/*
 // @match        *iogames.space/*
 // @match        *titotu.io/*
