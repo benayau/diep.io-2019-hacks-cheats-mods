@@ -3,7 +3,7 @@
 // @description  Diepio Mods Features: Color Changer, Colorful Items, Aimbot, Fire Bot, Auto Respan, FPS, Adblock
 // @namespace    iomods.org
 // @author       iomods.org
-// @version      1.1
+// @version      1.2
 // @require      https://greasyfork.org/scripts/27023-jscolor/code/JSColor.js?version=173802
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
